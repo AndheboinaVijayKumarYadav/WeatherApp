@@ -22,7 +22,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url(/images/weather.png) no-repeat center;
+    background: url('/images/weather.png') no-repeat center;
     background-size: cover;
     border-radius: 10px;
     overflow: hidden;
